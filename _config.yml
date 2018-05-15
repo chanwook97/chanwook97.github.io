@@ -16,7 +16,7 @@
 theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: ko-KR
-title: "김찬욱의 블로그"
+title: "chanwook97's blog"
 description: "작은 것 하나 하나."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://chanwook97.github.io"
@@ -33,6 +33,10 @@ disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
   username: # site's Twitter username, e.g. "mmistakes"
+
+read_time: true
+words_per_minute: 200
+
 
 # Liquid
 liquid:
