@@ -13,6 +13,9 @@ layout: default
         {% else %}
           <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
         {% endif %}
+        {% if page.subtitle %}
+          <h2 id="page-subtitle" class="page-subtitle p-name">{{ page.subtitle }}</h2>
+        {% endif %}
       </header>
 
       <div class="page-sidebar">

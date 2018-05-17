@@ -10,12 +10,23 @@
 }
 
 .page-title {
-  @include fluid-type($min-vw, $max-vw, 48px, 60px);
-  margin-bottom: 0.5em;
+  @include fluid-type($min-vw, $max-vw, 32px, 48px);
+  margin-bottom: 0.25em;
   font-family: $title-font-family;
   font-weight: $page-title-weight;
   font-style: normal;
   letter-spacing: -2px;
+  text-align: center;
+}
+
+.page-subtitle {
+  @include fluid-type($min-vw, $max-vw, 16px, 24px);
+  margin-bottom: 2em;
+  font-family: $subtitle-font-family;
+  font-weight: $page-subtitle-weight;
+  font-style: normal;
+  letter-spacing: -2px;
+  text-align: center;
 }
 
 .page-image {
@@ -34,7 +45,9 @@
   }
   
   img {
+    max-height: 600px;
     width: 100%;
+    object-fit: cover;
   }
 }
 
