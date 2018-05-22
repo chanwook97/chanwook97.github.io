@@ -3,6 +3,7 @@ layout: post
 title: 권력의 법칙 독서 메모
 category: book
 tags: [book, self-development]
+author: Chanwook Kim
 published: true
 ---
 

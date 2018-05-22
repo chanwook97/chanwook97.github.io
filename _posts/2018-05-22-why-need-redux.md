@@ -5,6 +5,7 @@ subtitle: 왜 Redux가 필요하며 Redux를 통해서 무엇을 얻을 수 있�
 category: dev
 tags: [web, react, redux, react-redux]
 published: true
+author: Chanwook Kim
 ---
 
 > 미성숙한 최적화는 악의 근원이다. - [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
