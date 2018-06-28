@@ -17,7 +17,8 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: ko-KR
 title: "chanwook97's blog"
-description: "작은 것 하나 하나."
+email: cksdnr987@wafflestudio.com
+description: "세상을 좀 더 재미있게,"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://chanwook97.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -36,6 +37,7 @@ twitter:
 
 read_time: true
 words_per_minute: 200
+
 
 
 # Liquid
