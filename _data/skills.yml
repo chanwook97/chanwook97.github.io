@@ -1,23 +1,32 @@
-- title: Adobe Photoshop
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+- title: Front-end Development
+  desc: React.js with React Native, Django, Angular with Ionic, ...
   progress: 75%
 
-- title: Web Design
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 68% 
-
-- title: Back-End Development
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 90%
-
-- title: Javascript
-  desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
+- title: Back-end Development
+  desc: Django rest framework
   progress: 55%
 
-- title: HTML5 And CSS3
-  desc: Web Design sit amet, consectetur adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 88% 
+- title: Dev-ops
+  desc: Amazon Web Services(EC2, RDS, S3), Git(Github, Bitbucket), Wiki(Confluence), ...
+  progress: 45%
 
-- title: Adobe Illustrator
-  desc: Back End adipisicing elit. Assumenda non in vitae animi aliquam facere minima molestiae veritatis.
-  progress: 20%
+- title: React.js
+  desc: React Native, webpack, react-router, eslint, redux, saga, Immutable.js, React-boilerplate, ...
+  progress: 75%
+
+- title: Django Rest Framework
+  desc: Celery, ...
+  progress: 65%
+
+- title: Angular
+  desc: with Ionic frameworks
+  progress: 50%
+
+- title: Javascript
+  desc: ES6, Typescript, flow, ...
+  progress: 80%
+
+- title: HTML5 and CSS3
+  desc: JSX, Html5 with Angular, React-Native JSX, sass, css, styled-components, ...
+  progress: 80%
+

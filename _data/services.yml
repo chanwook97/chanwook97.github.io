@@ -1,23 +1,11 @@
-- title: Adobe Photoshop
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-brush.png
+- title: Flova
+  desc: <a class="underline-a" href="https://flova.kr">Flova</a>는 관심사 기반 소셜 QnA 서비스입니다. 기본적으로 React.js와 Django Rest Framework로 만들어졌습니다. 대표로서 기획, 경영, 개발과 디자인 등 여러 부분에 걸쳐 참여했습니다. 더 자세한 이야기를 보고 싶으시면 <a class="underline-a" href="">여기</a>를 눌러주세요.
+  icon: assets/images/flova-logo.png
 
-- title: Javascript
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-java.png
+- title: MapperAI
+  desc: <a class="underline-a" href="http://mapperai.xyz">Mapper AI</a>는 <a class="underline-a" href="http://snatcher.ai">Snatcher.ai</a>의 드론 매핑 지도 분석기입니다. 웹 파트를 맡아 React.js를 이용해서 개발했습니다. Leaflet, OpenStreetmap 등의 지도 오픈소스를 활용했습니다.
+  icon: assets/images/mapperai-logo.png
   
-- title: HTML5 And CSS3
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-coding.png
-
-- title: Web design
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-layer.png
-
-- title: Back-end Development
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-mouse.png
-
-- title: Adobe illustrator
-  desc: Lorem ipsum dolor sit amet, augue lacus duis aliquam interdum morbi, justo sequi eget nulla nec, dignissim
-  icon: assets/images/services-icon-pen.png
+- title: SNUEV
+  desc: SNUEV는 <a class="underline-a" href="http://wafflestudio.kr">와플스튜디오</a>의 서울대학교 강의 평가 서비스입니다. 웹 파트의 일원으로 React.js를 사용해서 개발중입니다. 
+  icon: assets/images/snuev-logo.png

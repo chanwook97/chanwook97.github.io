@@ -1,14 +1,24 @@
-- year: 2006-2017
-  logo: assets/images/facebook.png
-  url: http://facebook.com
-  desc: Facebook Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut commodi earum eligendi ipsum, laborum maiores mollitia.
+- year: 2015-
+  logo: assets/images/snu-logo.png
+  url: http://www.snu.ac.kr/
+  desc: 컴퓨터공학부 주전공(2015-),<br /> 벤처경영학 연합전공(2016-)
 
-- year: 1998-2000
-  logo: assets/images/google.png
-  url: http://google.com
-  desc: Google Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut commodi earum eligendi ipsum, laborum maiores mollitia.
+- year: 2017-2018
+  logo: assets/images/flova-logo.png
+  url: https://flova.kr
+  desc: 대표
 
-- year: 1999-2003
-  logo: assets/images/envato.png
-  url: http://envato.com
-  desc: Envato Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut commodi earum eligendi ipsum, laborum maiores mollitia.
+- year: 2017-2018
+  logo: assets/images/wafflestudio-logo.png
+  url: http://wafflestudio.kr
+  desc: 회장
+
+- year: 2018
+  logo: assets/images/snatcherai-logo.png
+  url: http://snatcher.ai/
+  desc: 웹 개발
+
+- year: 2015-2016
+  logo: assets/images/weneepl-logo.png
+  url: http://weneepl.com
+  desc: 앱 개발

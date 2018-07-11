@@ -189,7 +189,7 @@
     height: 25px;
 }
 .work-history-wrapper{
-	margin-bottom:30px;
+  margin-bottom:30px;
 }
 .contact-form h3 {
     width: 100%;
@@ -206,6 +206,9 @@
 .services-box {
     padding: 60px 20px 30px;
     margin-bottom: 40px;
+}
+.services-box a {
+  text-decoration: underline !important;
 }
 .services-project-box {
     padding: 40px 20px;

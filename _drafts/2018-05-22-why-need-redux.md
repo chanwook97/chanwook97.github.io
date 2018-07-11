@@ -8,8 +8,8 @@ published: true
 author: Chanwook Kim
 ---
 
-> 미성숙한 최적화는 악의 근원이다. - [Donald Knuth](https://en.wikipedia.org/wiki/Donald_Knuth)
-
+# 서론
+React를 사용한지 약 1~2년 정도 된 저는 처음에 React에 대해 충분한 경험을 쌓기 전에 Redux를 배웠습니다. 실제로 대부분
 React와 Redux는 세트다. 너무 같이 붙어다닌다. Redux는 그래서 React가 있는 곳마다 쓰이며 항상, "내가 왜 세 곳의 코드를 건드리면서 Redux를 사용해야 해?"하는 욕을 먹곤 한다. 사실 Redux가 쓸데 없다는 오해를 불러일으키는 이유중 하나는 Redux가 남용되고 있기 때문이다. 이 글에서는 **Redux는 React에 왜 필요한지, Redux를 통해서 무엇을 얻을 수 있을 지**에 대해 다뤄보고자 한다.
 
 # Redux의 철학
