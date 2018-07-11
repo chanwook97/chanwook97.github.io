@@ -1,16 +1,17 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
+Chanwook Kim:
   name: Chanwook Kim
-  picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  picture: /assets/images/chanwook_kim.jpg
+  github: cksdnr987@wafflestudio.com
   links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
-
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+    - title: Github
+      url: https://www.github.com/chanwook97
+      icon: fab fa-github-square
+    - title: Facebook
+      url: http://www.facebook.com/cksdnr987
+      icon: fab fa-facebook-square
+    - title: Instagram
+      url: https://www.instagram.com/chanukkim987/
+      icon: fab fa-instagram
