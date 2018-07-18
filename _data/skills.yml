@@ -1,10 +1,10 @@
 - title: Front-end Development
   desc: React.js with React Native, Django, Angular with Ionic, ...
-  progress: 75%
+  progress: 70%
 
 - title: Back-end Development
   desc: Django rest framework
-  progress: 55%
+  progress: 65%
 
 - title: Dev-ops
   desc: Amazon Web Services(EC2, RDS, S3), Git(Github, Bitbucket), Wiki(Confluence), ...
@@ -15,7 +15,7 @@
   progress: 75%
 
 - title: Django Rest Framework
-  desc: Celery, ...
+  desc: with Celery, RabbitMQ, Redis, nginx, ElasticSearch, ...
   progress: 65%
 
 - title: Angular

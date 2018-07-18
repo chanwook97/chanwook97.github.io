@@ -1,9 +1,9 @@
 - title: Flova
-  desc: <a class="underline-a" href="https://flova.kr">Flova</a>는 관심사 기반 소셜 QnA 서비스입니다. 기본적으로 React.js와 Django Rest Framework로 만들어졌습니다. 대표로서 기획, 경영, 개발과 디자인 등 여러 부분에 걸쳐 참여했습니다. 더 자세한 이야기를 보고 싶으시면 <a class="underline-a" href="">여기</a>를 눌러주세요.
+  desc: <a class="underline-a" href="https://flova.kr">Flova</a>는 관심사 기반 소셜 QnA 서비스입니다. 기본적으로 React.js와 Django Rest Framework로 만들어졌습니다. 대표로서 기획, 경영, 개발과 디자인 등 여러 부분에 걸쳐 참여했습니다.
   icon: assets/images/flova-logo.png
 
 - title: MapperAI
-  desc: <a class="underline-a" href="http://mapperai.xyz">Mapper AI</a>는 <a class="underline-a" href="http://snatcher.ai">Snatcher.ai</a>의 드론 매핑 지도 분석기입니다. 웹 파트를 맡아 React.js를 이용해서 개발했습니다. Leaflet, OpenStreetmap 등의 지도 오픈소스를 활용했습니다.
+  desc: <a class="underline-a" href="http://mapperai.xyz">Mapper AI</a>는 <a class="underline-a" href="http://snatcher.ai">Snatcher.ai</a>의 드론 매핑 지도 분석기입니다. 웹 파트를 맡아 React.js를 이용해서 개발했습니다. 특히, 리액트-매터리얼 디자인 결합 모듈인 <a class="underline-a" href="https://material-ui.com/">Material UI</a>를 적극적으로 활용하였습니다. 또한 Leaflet, OpenStreetmap 등의 지도 오픈소스를 사용하였습니다.
   icon: assets/images/mapperai-logo.png
   
 - title: SNUEV
